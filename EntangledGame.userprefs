@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LanguageController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Shop\ShopPage.cs" Line="65" Column="38" />
+      <File FileName="Assets\Scripts\Shop\ShopExample.cs" Line="51" Column="106" />
+      <File FileName="Assets\Scripts\Shop\ShopItemButton.cs" Line="51" Column="2" />
+      <File FileName="Assets\Scripts\GameSessionInfo.cs" Line="33" Column="5" />
+      <File FileName="Assets\Scripts\Shop\PurchasingScript.cs" Line="158" Column="1" />
+      <File FileName="Assets\Scripts\LevelsPage\LevelsPage.cs" Line="20" Column="4" />
+      <File FileName="Assets\Scripts\LevelsPage\LevelButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Point.cs" Line="20" Column="49" />
+      <File FileName="Assets\Scripts\StopWatch.cs" Line="21" Column="23" />
+      <File FileName="Assets\Scripts\ButtonActions.cs" Line="16" Column="34" />
+      <File FileName="Assets\Scripts\Generator\Template.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\Generator\TemplateSquad.cs" Line="5" Column="21" />
+      <File FileName="Assets\Scripts\LevelController.cs" Line="300" Column="1" />
+      <File FileName="Assets\Scripts\Generator\LevelGenerator.cs" Line="219" Column="27" />
+      <File FileName="..\MegaGame\Assets\Scripts\GUI\BattleInterface\BattleSkillsPanel\SkillButton.cs" Line="137" Column="92" />
+      <File FileName="Assets\Scripts\Level.cs" Line="31" Column="22" />
+      <File FileName="Assets\Scripts\SerializableVector2.cs" Line="23" Column="16" />
+      <File FileName="Assets\Scripts\Line.cs" Line="36" Column="124" />
+      <File FileName="Assets\Scripts\GameMath.cs" Line="28" Column="10" />
+      <File FileName="Assets\Scripts\Generator\ArrayLine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Generator\ArrayPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Generator\ArrayPointInfo.cs" Line="5" Column="21" />
+      <File FileName="Assets\Scripts\AudioController.cs" Line="17" Column="2" />
+      <File FileName="Assets\Scripts\DialogWindowController.cs" Line="46" Column="25" />
+      <File FileName="Assets\Scripts\StartProcessController.cs" Line="13" Column="67" />
+      <File FileName="Assets\Scripts\LanguageController.cs" Line="33" Column="1" />
+      <File FileName="Assets\Scripts\GameSettings.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

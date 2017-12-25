@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntangledGame", "Assembly-CSharp-firstpass.csproj", "{CF555C1B-FA26-DC5D-8EEA-5014E58D432F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntangledGame", "Assembly-CSharp.csproj", "{3F699B8A-0E4B-06EF-F29C-3D5410A9B06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF555C1B-FA26-DC5D-8EEA-5014E58D432F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF555C1B-FA26-DC5D-8EEA-5014E58D432F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF555C1B-FA26-DC5D-8EEA-5014E58D432F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF555C1B-FA26-DC5D-8EEA-5014E58D432F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F699B8A-0E4B-06EF-F29C-3D5410A9B06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F699B8A-0E4B-06EF-F29C-3D5410A9B06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F699B8A-0E4B-06EF-F29C-3D5410A9B06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F699B8A-0E4B-06EF-F29C-3D5410A9B06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+lastUpgrade=00942
+proj.pluginVersion=0.9.42
+proj.AppId=811499205976
+and.BundleId=com.FunnyRng.EntangledGame
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e811499205976%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.FunnyRng.EntangledGame%3c%2fstring%3e%0d%0a++%3c%21--+achievement+%d0%9e%d1%86%d0%b5%d0%bd%d0%b8%d1%82%d1%8c+%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5+--%3e%0d%0a++%3cstring+name%3d%22achievement%22+translatable%3d%22false%22%3eCgkI2Or8iM8XEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=811499205976-upv0ni3a5hb28b98iofffuqdflpclb2s.apps.googleusercontent.com
+android.SetupDone=true

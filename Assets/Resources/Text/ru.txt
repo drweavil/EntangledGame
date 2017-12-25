@@ -1,0 +1,23 @@
+{
+  "menuButtons": {
+    "continue":"Продолжить",
+    "newGame": "Новая игра",
+    "levels": "Уровни",
+    "shop": "Магазин",
+    "settings": "Настройки",
+    "goldShop": "Купить монеты",
+    "skipLevel": "Пропустить уровень",
+    "setTheme": "Установить",
+    "nextLevel": "Следующий уровень"
+  },
+  "labels":{
+    "language": "Язык",
+    "audio": "Звук",
+    "levelComplete": "Уровень пройден!"
+  },
+  "dialogMessages":{
+    "skipLevelMessage":"Вы хотите пропустить уровень за {0} монет?",
+    "skipLevelNotEnoughtGoldMessage": "У вас не хватает монет. Цена: {0}",
+    "newLevelMessage": "Вы уверены что хотите начать игру заного? Весь сохранённый прогресс будет утерян."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "menuButtons": {
+    "continue":"Continue",
+    "newGame": "New Game",
+    "levels": "Levels",
+    "shop": "Shop",
+    "settings": "Settings",
+    "goldShop": "Buy coins",
+    "skipLevel": "Skip level",
+    "setTheme": "Set theme",
+    "nextLevel": "Next level" 
+  },
+  "labels":{
+    "language": "Language",
+    "audio": "Sound",
+    "levelComplete": "Level complete!"
+  },
+  "dialogMessages":{
+    "skipLevelMessage":"Do you want to skip the level for {0} coins?",
+    "skipLevelNotEnoughtGoldMessage": "You do not have enough coins. Price: {0}",
+    "newLevelMessage": "Are you sure you want to start the game again? All the saved progress will be lost."
+  }
+}
